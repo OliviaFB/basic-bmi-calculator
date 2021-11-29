@@ -1,0 +1,26 @@
+.container-calculator {
+  width: 425px;
+  margin: 50px auto;
+  border-radius: 16px;
+  padding: 58px;
+  background: #e0e0f0;
+}
+
+.box-results {
+  background: #FFEDF0;
+  padding: 40px;
+  margin-top: 20px;
+}
+
+.btn-flat {
+  color: white;
+  padding: 8px 24px;
+  border-radius: 4px;
+  background: #5360a9;
+  transition: background 0.3s ease;
+}
+
+.btn-flat:hover {
+  background: #939ac2;
+  color: white;
+}
